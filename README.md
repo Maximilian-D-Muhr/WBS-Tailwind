@@ -36,11 +36,15 @@ WBS-Tailwind/
 
 ## 📱 Responsive Breakpoints
 
+Following Tailwind CSS default breakpoints:
+
 | Prefix | Min Width | Target Devices |
 |--------|-----------|----------------|
-| `sm:` | 640px | Large phones |
+| `sm:` | 640px | Large phones, small tablets |
 | `md:` | 768px | Tablets |
 | `lg:` | 1024px | Laptops |
+| `xl:` | 1280px | Desktops |
+| `2xl:` | 1536px | Large desktops |
 
 ## 💻 Local Development
 
